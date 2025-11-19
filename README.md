@@ -1,4 +1,4 @@
-# Vue 3 + TypeScript + Quasar - Senior Frontend Development Guide
+# Frontend Development Guide
 
 ## Mundarija
 1. [Loyiha Strukturasi](#loyiha-strukturasi)
