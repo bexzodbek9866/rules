@@ -35,7 +35,6 @@ Ushbu repository Vue 3, TypeScript va Quasar Framework yordamida enterprise-leve
 ```
 ├── README.md                           # Bu fayl
 ├── OLD_README.md                       # Archive
-├── CLAUDE.md                           # AI assistant yo'riqnomasi
 └── docs/
     ├── 01-architecture-principles.md   # SOLID, DRY, KISS, YAGNI
     ├── 02-vue3-composition-api.md      # Composition API
