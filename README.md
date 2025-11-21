@@ -1,10 +1,10 @@
 # Frontend Development Guide
 
-> Vue 3 + TypeScript + Quasar uchun senior-level professional qo'llanma
+> Vue 3 + TypeScript + Quasar uchun qo'llanma
 
 ## 📚 Documentation
 
-Ushbu repository Vue 3, TypeScript va Quasar Framework yordamida enterprise-level frontend development uchun to'liq qo'llanma hisoblanadi. Barcha qo'llanmalar **senior developer** darajasida yozilgan va production-ready kodlashni o'rgatadi.
+Ushbu repository Vue 3, TypeScript va Quasar Framework yordamida enterprise-level frontend development uchun to'liq qo'llanma hisoblanadi.
 
 ### 🗂️ Qo'llanmalar ro'yxati
 
